@@ -93,6 +93,6 @@ namespace nanoFramework.Runtime.Events
         /// <summary>
         /// Specifies an event raised in a service routine.
         /// </summary>
-        OpenThread = 150
+        ServiceRoutine = 150
     }
 }
